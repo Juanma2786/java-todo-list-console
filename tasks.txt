@@ -1,0 +1,4 @@
+Matar a Cristina;false
+Matar a Kicillof;false
+Matar a Massa;false
+Matar a Grabois;true

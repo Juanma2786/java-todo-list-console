@@ -1,0 +1,7 @@
+# Archivos de compilación
+*.class
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
